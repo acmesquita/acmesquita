@@ -1,7 +1,7 @@
 # Catharina Mesquita
 Dev FullStack
 
-![Acmesquita GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true)
+Since 2013, I dedicate myself to learn ways to solve problems with software, my main goal is to learn and improve more and more my knowledge.
 
 ## Tecnologias
 
@@ -21,6 +21,10 @@ Dev FullStack
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+## 2020
+
+![Acmesquita GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true)
 
 ## Contatos
 
