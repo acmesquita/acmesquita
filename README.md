@@ -42,3 +42,7 @@ Since 2013, I dedicate myself to learn ways to solve problems with software, my 
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> E-mail
 </a>
 <br />
+<a target="_blank" href="https://acmesquita.medium.com/">
+  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /> Medium
+</a>
+<br />
