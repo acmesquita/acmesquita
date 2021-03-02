@@ -1,6 +1,8 @@
 # Catharina Mesquita
 Dev FullStack
 
+![](https://komarev.com/ghpvc/?username=acmesquita&style=flat-square)
+
 Since 2013, I dedicate myself to learn ways to solve problems with software, my main goal is to learn and improve more and more my knowledge.
 
 ## Tecnologias
