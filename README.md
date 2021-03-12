@@ -32,7 +32,7 @@ Since 2013, I dedicate myself to learn ways to solve problems with software, my 
 
 ## 2021
 
-<codersrank-summary username="acmesquita"></codersrank-summary>
+![Acmesquita GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true)
 
 ## Contatos
 
