@@ -32,7 +32,7 @@ Since 2013, I dedicate myself to learn ways to solve problems with software, my 
 
 ## 2021
 
-![Acmesquita GitHub Stats](<codersrank-summary username="acmesquita"></codersrank-summary>)
+<codersrank-summary username="acmesquita"></codersrank-summary>
 
 ## Contatos
 
