@@ -32,7 +32,10 @@ Since 2013, I dedicate myself to learn ways to solve problems with software, my 
 
 ## 2021
 
-![Acmesquita GitHub Stats](https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true)
+<div>
+ <img style="display: inline;" src="https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true" alt="acmesquita" />
+ <img style="display: inline;" src="https://github-readme-stats.vercel.app/api/top-langs?username=acmesquita&show_icons=true&locale=en&layout=compact&theme=ligth" alt="acmesquita" />
+</div>
 
 ## Contatos
 
