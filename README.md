@@ -22,6 +22,7 @@ I'm a passionate software developer with a keen interest in resolute problems wi
 
 ![Acmesquita's GitHub stats](https://github-readme-stats.vercel.app/api?username=acmesquita&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acmesquita&layout=compact&theme=radical)
+[![roadmap.sh](https://roadmap.sh/card/tall/679b6c3731e842a9fc8932c6?variant=dark)](https://roadmap.sh)
 
 ## 📫 How to reach me
 
