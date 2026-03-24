@@ -25,7 +25,7 @@ I'm a passionate software developer with a keen interest in resolute problems wi
 
 ## 📫 How to reach me
 
-- Email: [acmesquita@example.com](mailto:acmesquita@example.com)
+- Email: [catha.ana.1994@gmail.com](mailto:catha.ana.1994@gmail.com)
 - LinkedIn: [linkedin.com/in/acmesquita](https://www.linkedin.com/in/acmesquita)
 - Twitter: [@acmesquita](https://twitter.com/acmesquita)
 
